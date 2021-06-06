@@ -38,6 +38,20 @@ The purpose of the analysis is to determine the number of retiring employees per
 
  
 2) Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+     - As we can see from the below tables, there are a total of 1,549 eligible to retire and to participate in the Mentorship program while we can see from the total employees that are eligible to retire by department exceeds the total legible mentors. So, there are not enough qualified, retirement-ready employees in the departments to mentor. 
+     
+<table>
+  <tr>
+    <td>Total Retirements by Department</td>
+     <td>Mentorship Eligibilty totals</td>
+  </tr>
+  <tr>
+     <td><img src="https://user-images.githubusercontent.com/81998045/120941823-f1708300-c6f2-11eb-8458-a3ad6de29a39.png" width=400 height=620></td>
+     <td><img src="https://user-images.githubusercontent.com/81998045/120942531-93926a00-c6f7-11eb-90ab-bf13b678aace.png" width=400 height=620></td>
+   </tr>
+ </table>
+          
+
 
  
           
