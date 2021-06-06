@@ -23,6 +23,14 @@ The purpose of the analysis is to determine the number of retiring employees per
           
  ![retiring_titles](https://user-images.githubusercontent.com/81998045/120938713-45bf3700-c6e2-11eb-905e-2af0dde41bb8.png)
 
+2) TThe Mentorship Eligibility Table helps to identifies all current employees who were born between January 1, 1965, and December 31, 1965, who are eligible for the mentorship program.
+     - With queries using filters, joins and functions I created The Mentorship Eligibility Table
+          - [Mentorship Eligibilty](https://github.com/KristinaCastro/Pewlett-Hackard-Analysis/files/6604885/mentorship_eligibilty.csv)
+     - We can see from the data that there are currently 1,549 employees who are eligible to retire and participate in the mentorship program. This data is vital for Pewlett Hackard when planning for the future of the company and its employees.
+
+![mentorship_eligibilty](https://user-images.githubusercontent.com/81998045/120939183-c2ebab80-c6e4-11eb-8842-74e93fd412b2.png)
+
+ 
           
 
 
