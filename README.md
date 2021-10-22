@@ -13,7 +13,7 @@ The purpose of the analysis is to determine the number of retiring employees per
      - When looking over the Retirement Titles data, we see that there are duplicate entries for some employees because they have switched titles throughout their years of employment at Pewlett Hackard.
 ![retirement_titles](https://user-images.githubusercontent.com/81998045/120938507-00e6d080-c6e1-11eb-8aeb-df94d6d1f286.png)
 
-   B) To provide the most accurate information to prepare for the "silver tsunami" we need to further clean up our Retirement Titles list by removing the duplicates and keeping the most recent title of each employee. Using the DISTINCT ON statement, all duplicates were removed and the most up to date title for each employee is provided in the unique titles table.
+   B) To provide the most accurate information in preparation for the "silver tsunami" we need to further clean up our Retirement Titles list by removing the duplicates and keeping the most recent title of each employee. Using the DISTINCT ON statement, all duplicates were removed and the most up to date title for each employee is provided in the unique titles table.
       - [Unique Titles](https://github.com/KristinaCastro/Pewlett-Hackard-Analysis/files/6604854/unique_titles.csv)
 ![unique_titles](https://user-images.githubusercontent.com/81998045/120938706-33dd9400-c6e2-11eb-9035-68893aa30408.png)
  
